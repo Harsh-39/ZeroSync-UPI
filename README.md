@@ -39,6 +39,10 @@ You'll see all three in the dashboard.
 
 ## How to run it
 
+### Open the live demo
+
+Visit the hosted dashboard: [https://zerosync-upi.onrender.com/](https://zerosync-upi.onrender.com/). The dashboard and API are hosted together, so no separate frontend setup is needed. If the free service has been idle, its first request may take about a minute while it starts.
+
 ### Prerequisites
 
 - **JDK 17 or newer** installed and on PATH (or `JAVA_HOME` set). Check with `java -version`.
